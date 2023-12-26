@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <foodlist>
-    <fooditem>
-        <name>burger</name>
+    <fooditem type="Pakistan">
+        <name>egg burger</name>
         <cost>110</cost>
     </fooditem>
 
-    <fooditem>
+    <fooditem type="american">
         <name>brost</name>
         <cost>380</cost>
     </fooditem>
 
-    <fooditem>
+    <fooditem type="italy">
         <name>soda</name>
         <cost>50</cost>
     </fooditem>
 
-    <fooditem>
+    <fooditem type="Pakistan">
         <name>chips</name>
         <cost>50</cost>
     </fooditem>
