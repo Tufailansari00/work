@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<namelist>
+    <n:names xmlns:n="https//www.google.com/employes">
+        <n:name>carryminaty</n:name>
+        <n:name>dukybhai</n:name>
+        <n:name>elvishbhai</n:name>
+        <n:name>nadirali</n:name>
+   </n:names>
+    <f:names xmlns:f="https//www.google.com/employes">
+        <f:name>indian</f:name>
+        <f:name>Pakistan</f:name>
+        <f:name>indian</f:name>
+        <f:name>pakistan</f:name>
+   </f:names>
+  
+</namelist>
