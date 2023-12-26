@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foodlist>
+    <fooditem>
+        <name>burger</name>
+        <cost>110</cost>
+    </fooditem>
+
+    <fooditem>
+        <name>brost</name>
+        <cost>380</cost>
+    </fooditem>
+
+    <fooditem>
+        <name>soda</name>
+        <cost>50</cost>
+    </fooditem>
+
+    <fooditem>
+        <name>chips</name>
+        <cost>50</cost>
+    </fooditem>
+</foodlist>
