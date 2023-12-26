@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orginization>
+  <records>
+        <record>
+            <name>talha</name>
+            <age>3</age>
+        </record>
+            <record>
+            <name>subhan</name>
+            <age>prosses</age>
+        </record>
+        <record>
+            <name>usama</name>
+            <age>dead</age>
+        </record>
+        <record>   
+            <name>hadi</name>
+            <age>vloger</age>
+        </record>
+   </records>
+
+    <records>
+        <record>
+            <name>html</name>
+            <age>template</age>
+        </record>
+
+        <name>css</name>
+        <age>design</age>
+
+        <name>java</name>
+        <age>development</age>
+
+        <name>xml</name>
+        <age>backend</age>
+    </records>
+</orginization>
