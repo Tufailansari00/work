@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orginization>
+    <deparment type="engineering ">
+        <name>ENGINEERING DEPART </name>
+        <location>STREET D4</location>
+        <contact>9056762134789</contact>
+        <deparmenthead>SIR MUKARRAM</deparmenthead>
+    </deparment>
+
+    <deparment type="art ">
+        <name>ART DEPARMENT </name>
+        <location>STRRET C3</location>
+        <contact>0934697984</contact>
+        <deparmenthead>SIR USMAN </deparmenthead>
+    </deparment>
+
+    <deparment type="medical ">
+        <name>MEDICAL DEPARMENT</name>
+        <location>STREET A13</location>
+        <contact>89077906</contact>
+        <deparmenthead>SIR GUFRAN </deparmenthead>
+    </deparment>
+
+    <deparment type="food">
+        <name>FOOD DEPARTMENT</name>
+        <location>STREET B4</location>
+        <contact>9045789345</contact>
+        <deparmenthead>SIR MOIZ </deparmenthead>
+    </deparment>
+</orginization>
