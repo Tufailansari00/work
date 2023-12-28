@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+ <?xml-stylesheet href="file.xsl" type="text/xsl"?>
+
+
+ <class>
+    <student>
+        <name>tufail</name>
+        <age>19</age>
+        <city>karachi</city>
+        <country>pakistan</country>
+    </student>
+
+    <student>
+        <name>usama</name>
+        <age>50</age>
+        <city>2 minut</city>
+        <country>pakistan</country>
+    </student>
+
+    <student>
+        <name>gufran</name>
+        <age>24</age>
+        <city>karachi</city>
+        <country>pakistan</country>
+    </student>
+
+    <student>
+        <name>moiz</name>
+        <age>23</age>
+        <city>karachi</city>
+        <country>pakistan</country>
+    </student>
+ </class>
