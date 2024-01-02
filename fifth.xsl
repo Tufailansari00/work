@@ -9,10 +9,10 @@
             <style>
                 body{
                     background-color:purple;
-                    color:white;
+                    color: white;
                 }
                 table{
-                    margin-left:490px;
+                    margin-left:460px;
                     background-color:teal;
                 }
                 h2{

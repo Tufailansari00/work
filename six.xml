@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-stylesheet href="six.xsl" type="text/xsl"?>
+<class>
+    <employes>
+        <name>Empire Bursequi</name>
+        <artist>Dob Dyle</artist>
+    </employes>
+
+    <employes>
+        <name>Hide Your Heart</name>
+        <artist>Tree off</artist>
+    </employes>
+
+    <employes>
+        <name>Greatist git </name>
+        <artist> Rocking </artist>
+    </employes>
+
+    <employes>
+        <name>Still got the Blues </name>
+        <artist> Goting </artist>
+    </employes>
+
+    <employes>
+        <name>Eros</name>
+        <artist>Error</artist>
+    </employes>
+
+    <employes>
+        <name>every night</name>
+        <artist>Html Work</artist>
+    </employes>
+    <employes>
+        <name>Sylish Wera</name>
+        <artist>Dr.wook</artist>
+    </employes>
+
+    <employes>
+        <name>Bee Gees</name>
+        <artist>Maggie May</artist>
+    </employes>
+
+    <employes>
+        <name>Romanza</name>
+        <artist>Andrie Bcheri</artist>
+    </employes>
+
+    <employes>
+        <name>When a Men Loves a women </name>
+        <artist>percy slides</artist>
+    </employes>
+
+    <employes>
+        <name>Black Angle</name>
+        <artist>Savage </artist>
+    </employes>
+
+    <employes>
+        <name>Germany Nominies </name>
+        <artist>Many</artist>
+    </employes>
+
+    <employes>
+        <name>For the Good times </name>
+        <artist>Kany gred</artist>
+    </employes>
+
+    <employes>
+        <name>Big Wile File </name>
+        <artist>Will Smith</artist>
+    </employes>
+
+    <employes>
+        <name>Tupelo Honey </name>
+        <artist>Van Morry</artist>
+    </employes>
+
+    <employes>
+        <name>Souklwile </name>
+        <artist>Jorn Hoel</artist>
+    </employes>
+
+</class>
